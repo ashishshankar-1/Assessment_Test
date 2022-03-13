@@ -2,11 +2,9 @@
 Assessment Test For Software Engineer (Python)
 
 Ques: Tell us about one thing you are proud of in your career. It could be a difficult technical problem you had to solve in your work or a personal project. There is no need to go into details; a short paragraph explaining the problem and why you are proud of it would be fine.
------------------------------------------------------------------------------------------------------
 **Ans:** Comment: docx file is added Achievements_in _previous_project.docx
 
 Ques: Write a program that prints the numbers from 1 to 100. But for multiples of three print “Three” instead of the number and for the multiples of five print “Five”. For numbers which are multiples of both three and five print “ThreeFive”.
------------------------------------------------------------------------------------------------------------
 **Ans:** There are three files in the Print_the_number_folder
 
 a) __init__file.py (empty file)
