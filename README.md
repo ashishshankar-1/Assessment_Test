@@ -5,7 +5,7 @@ Assessment Test For Software Engineer (Python)
 
 **Ans:** Comment: docx file is added Achievements_in _previous_project.docx
 
-Ques 2: Write a program that prints the numbers from 1 to 100. But for multiples of three print “Three” instead of the number and for the multiples of five print “Five”. For numbers which are multiples of both three and five print “ThreeFive”.
+**Ques 2:** Write a program that prints the numbers from 1 to 100. But for multiples of three print “Three” instead of the number and for the multiples of five print “Five”. For numbers which are multiples of both three and five print “ThreeFive”.
 
 **Ans:** There are three files in the Print_the_number_folder
 
@@ -15,7 +15,7 @@ b) print_numbers.py file : This file contains the function name display_the_nos 
 
 c) test_case.py file : This file consists of class TestCaseToCheckTheReturnValue to check that the return value for display_the_nos is Generator type or not.
 
-Ques 3: Write a library that supports validating and formatting post codes for UK. The details of which post codes are valid and which are the parts they consist of can be found at https://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom#Formatting. The API that this library provides is your choice.--
+**Ques 3:** Write a library that supports validating and formatting post codes for UK. The details of which post codes are valid and which are the parts they consist of can be found at https://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom#Formatting. The API that this library provides is your choice.--
 
 Postcodes API is available at http://postcodes.io/
 
