@@ -26,7 +26,7 @@ Postcodes API is available at http://postcodes.io/
 Its consists of folder post_code:
 The folder post_code consists of below files:
 
-a) __init__.py empty file
+a) __init__.py (empty file)
 
 b) post_code.py file (Business logic for validating and formating the Postcode with the api i.e http://postcodes.io/)
 
