@@ -11,7 +11,7 @@ Added requirements.txt file
 
 **Ans:** There are three files in the print_numbers folder
 
-a) __init__file.py (empty file)
+a) init (empty file)
 
 b) print_numbers.py file : This file contains the function name display_the_nos which puts the logic for printing as mentioned in Question 2
 
@@ -26,7 +26,7 @@ Postcodes API is available at http://postcodes.io/
 Its consists of folder post_code:
 The folder post_code consists of below files:
 
-a) __init__.py (empty file)
+a) init (empty file)
 
 b) post_code.py file (Business logic for validating and formating the Postcode with the api i.e http://postcodes.io/)
 
