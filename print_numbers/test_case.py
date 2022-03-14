@@ -2,7 +2,7 @@
 
 import types
 import unittest
-from print_numbers import display_the_nos
+from print_numbers.print_numbers import display_the_nos
 
 class TestCaseToCheckTheReturnValue(unittest.TestCase):
     # Below function to check whether the return type is GeneratorType or not

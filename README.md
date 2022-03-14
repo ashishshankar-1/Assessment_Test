@@ -1,13 +1,15 @@
 # Assessment_Test
 Assessment Test For Software Engineer (Python)
 
+Added requirements.txt file
+
 **Ques 1:** Tell us about one thing you are proud of in your career. It could be a difficult technical problem you had to solve in your work or a personal project. There is no need to go into details; a short paragraph explaining the problem and why you are proud of it would be fine.
 
 **Ans:** Comment: docx file is added Achievements_in _previous_project.docx
 
 **Ques 2:** Write a program that prints the numbers from 1 to 100. But for multiples of three print “Three” instead of the number and for the multiples of five print “Five”. For numbers which are multiples of both three and five print “ThreeFive”.
 
-**Ans:** There are three files in the Print_the_number_folder
+**Ans:** There are three files in the print_numbers folder
 
 a) __init__file.py (empty file)
 
@@ -21,26 +23,12 @@ Postcodes API is available at http://postcodes.io/
 
 **Ans:** Here we are validating and formating the Postcode with the api i.e http://postcodes.io/
 
-There is a file validate_format_PostCode.py (module)
+Its consists of folder post_code:
+The folder post_code consists of below files:
 
-It consists of below functions
+a) __init__.py empty file
+b) post_code.py file (Business logic for validating and formating the Postcode with the api i.e http://postcodes.io/
+)
+c) test_cases.py (Testing file)
 
-a) loadJsonResponse
 
-b) validatePostcode--- Function to validate the post code
-
-c) randomPostcode--- Function to generate random post code
-
-d) queryPostcode--- Function to query the post code
-
-e) getAutoCompletePostcode--- Function to get auto complete post code
-
-**Next file is the test case file i.e test_cases.py**
-
-It consists of below Test classes.
-
-a) TestToValidateThePostCode--- Test for valid postcode
-
-b) TestToQueryPostcode--- Test for query with valid postcode
-
-c) TestToGetAutoCompletePostcode--- Test to get auto complete with valid postcode
